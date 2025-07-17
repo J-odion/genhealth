@@ -4,7 +4,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'GenHealth',
   description: 'care for whoever whereever whenever',
-  generator: 'v0.dev',
 }
 
 export default function RootLayout({
